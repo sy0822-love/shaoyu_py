@@ -6,7 +6,7 @@
 
 [01 Notebook]
 
-- [EX01-01 加法器](exercises/ex01-01.png)
+- [EX01-01 加法器]([exercises/ex01-01.png](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1-1%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb))
 - [EX01-02 BMI 計算機](exercises/ex01-02.png)
 - [EX01-03 Rock-Paper-Scissors](exercises/ex01-03.png)
 - [EX01-04 終極密碼](exercises/ex01-04.png)
