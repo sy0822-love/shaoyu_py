@@ -1,16 +1,15 @@
 # Application of Programming
-
-[Repos](github_repos.md)
+程式應用紀錄
 
 ## 01 Python Overview
 
 - [EX01-01 加法器](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1-1%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
-- [EX01-02 BMI 計算機](exercises/ex01-02.png)
-- [EX01-03 Rock-Paper-Scissors](exercises/ex01-03.png)
-- [EX01-04 終極密碼](exercises/ex01-04.png)
-- [EX01-05 Caesar Cipher: Encode and decode](exercises/ex01-05.png)
-- [EX01-06 簡易購物車](exercises/ex01-06.png)
-- [EX01-07 美食資訊查詢](exercises/ex01-07.png) / [同學分享美食名單](foods.md)
+- [EX01-02 BMI 計算機](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1_2_BMI_%E8%A8%88%E7%AE%97.ipynb)
+- [EX01-03 Rock-Paper-Scissors](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1-3%20%E5%89%AA%E5%88%80%E7%9F%B3%E9%A0%AD%E5%B8%83.ipynb))
+- [EX01-04 終極密碼](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1_4_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
+- [EX01-05 Caesar Cipher: Encode and decode](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1_5_%E5%87%B1%E8%96%A9%E5%AF%86%E7%A2%BC.ipynb)
+- [EX01-06 簡易購物車](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1_6%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
+- [EX01-07 美食資訊查詢](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/1_7%E7%BE%8E%E9%A3%9F%E8%B3%87%E8%A8%8A%E6%9F%A5%E8%A9%A2_.ipynb) 
 
 ## 02 Web Crawler
 
