@@ -1,5 +1,6 @@
 # Application of Programming
-程式應用紀錄
+
+程式練習紀錄
 
 ## 01 Python Overview
 
@@ -13,12 +14,12 @@
 
 ## 02 Web Crawler
 
-- [EX02-01 My Chatbot](exercises/ex02-01.png)
-- [EX02-02 高雄紅橘線捷運車站位置查詢](exercises/ex02-02.png)
-- [EX02-03 Yahoo 新聞儲存 Google 試算表](exercises/ex02-03.png)
-- [EX02-04 Download Pokemon Images](exercises/ex02-04.png)
-- [EX02-05 PTT Gossiping](exercises/ex02-05.png)
-- [EX02-06 開眼電影](exercises/ex02-06.png)
+- [EX02-01 My Chatbot](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2_1_chatbot.ipynb)
+- [EX02-02 高雄紅橘線捷運車站位置查詢](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2_2_%E9%AB%98%E9%9B%84%E7%B4%85%E7%B7%9A%E6%8D%B7%E9%81%8B.ipynb)
+- [EX02-03 Yahoo 新聞儲存 Google 試算表](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2-3Yahoo%20%E6%96%B0%E8%81%9E%E5%84%B2%E5%AD%98%20Google%20%E8%A9%A6%E7%AE%97%E8%A1%A8.ipynb)
+- [EX02-04 Download Pokemon Images](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2-4%E4%B8%8B%E8%BC%89%E5%8F%A3%E8%A2%8B%E5%A6%96%E6%80%AA%E5%9C%96%E7%89%87.ipynb)
+- [EX02-05 PTT Gossiping](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2-5%20ppt%20gossip.ipynb)
+- [EX02-06 開眼電影](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/2_6%E9%96%8B%E7%9C%BC%E7%95%8C%E9%9B%BB%E5%BD%B1.ipynb)
 - [EX02-07 KKDay](exercises/ex02-07.png)
 
 ## 03 Data Analysis
