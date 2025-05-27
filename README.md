@@ -33,12 +33,10 @@
 - [EX03-07 Tips](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/3_7_Tips.ipynb)
 
 ## 04 Machine Learning
-- [EX04-01 公司薪資概況Ⅰ](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/3_1%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E4%B8%80.ipynb)
-- [EX03-02 公司薪資概況Ⅱ](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/3_2%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81.ipynb)
-- [EX03-03 空氣品質指標(AQI)](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/3_3%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%8C%87%E6%A8%99.ipynb)
-- [EX03-04 薪情平台](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/3_4_%E8%96%AA%E8%B3%87%E5%B9%B3%E5%8F%B0.ipynb)
-- [EX03-05 台灣股票市場個股每日成交資訊]
-
+- [EX04-01 汽車進口數值資料轉換](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_1%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
+- [EX04-02 客戶基本資料編碼](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_2%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
+- [EX04-03 客戶分析](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_3%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90.ipynb)
+- 
 
 ## 05 Web API
 
