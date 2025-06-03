@@ -36,7 +36,9 @@
 - [EX04-01 汽車進口數值資料轉換](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_1%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
 - [EX04-02 客戶基本資料編碼](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_2%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
 - [EX04-03 客戶分析](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_3%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90.ipynb)
-- 
+- [EX04-04 加州房價](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_4%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
+- [EX04-05 辨識鳶尾花](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_5%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
+- [EX04-06 ET Today新聞標題分類](https://github.com/sy0822-love/shaoyu_py/blob/Exercise/4_6_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
 
 ## 05 Web API
 
